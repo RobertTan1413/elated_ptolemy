@@ -10,6 +10,19 @@ Use of Google Colabs to open Jypter Notebook files, and Google Drive to hold all
 
 If using local host to launch executions, please follow this guide to setup jupyter on own machine in install guide below
 
+copy file :
+Mednode_dataset.zip
+
+to file with name :
+d01.zip
+d02.zip
+d03.zip
+d04.zip
+d05.zip
+ISIC-images.zip
+SavedT.zip
+
+This will gives all the files required
 
 # Installing
 
