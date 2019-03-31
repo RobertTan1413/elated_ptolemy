@@ -1,6 +1,3 @@
-# elated_ptolemy
-school of ai hackaton team 23
-
 # Project Title : Melani(tm)
 
 To provide a way to detect melanoma 
@@ -31,7 +28,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 # Authors
 
-1. Robert - initial work
+1. Robert - initial work T#23
 2. Brian - updates 
 3. Zhiming - updates
 
